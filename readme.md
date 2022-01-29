@@ -1,6 +1,6 @@
 # Node-Task
 
-## Hello readme
+## Readme
 
 [![image of zenCoder](images/zenCoder.jpg)](http://tonimertanen.dy.fi)
 
@@ -16,7 +16,7 @@ _Click the picture_
 
 ### JSDoc used inside app.js
 
-```
+```JavaScript
 /**
  *
  * @param {number} a First param
