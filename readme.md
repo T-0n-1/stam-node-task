@@ -26,5 +26,3 @@ const add = (a, b) => {
   return a + b;
 };
 ```
-
-<iframe src="https://www.linkedin.com/in/toni-mertanen/" height="200px" width="400px"></iframe>
