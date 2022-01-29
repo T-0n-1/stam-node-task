@@ -3,6 +3,7 @@
 ## Hello readme
 
 [![image of zenCoder](images/zenCoder.jpg)](http://tonimertanen.dy.fi)
+
 _Click the picture_
 
 #### [Location of git repository](https://github.com/T-0n-1/stam-node-task)
