@@ -1,7 +1,7 @@
 {
   "name": "task",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-0n-1/stam-node-task.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/T-0n-1/stam-node-task/issues"
+  },
+  "homepage": "https://github.com/T-0n-1/stam-node-task#readme"
 }
